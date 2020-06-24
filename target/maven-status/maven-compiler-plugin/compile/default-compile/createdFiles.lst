@@ -1,0 +1,5 @@
+br/com/tga/oauth2/showinfouser/UserController.class
+br/com/tga/oauth2/showinfouser/ShowinfouserApplication.class
+br/com/tga/oauth2/showinfouser/security/ResourceServerConfig.class
+br/com/tga/oauth2/showinfouser/security/User.class
+br/com/tga/oauth2/showinfouser/security/UserPrincipalExtractor.class
